@@ -1,0 +1,12 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.fssa.prathiusha</groupId>
+  <artifactId>first-mvm-proj-prathiusha</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>first-mvm-proj-prathiusha</name>
+  <description>My first Maven project</description>
+  <properties>
+		<maven.compiler.source>17</maven.compiler.source>
+		<maven.compiler.target>17</maven.compiler.target>
+	</properties>
+</project>
